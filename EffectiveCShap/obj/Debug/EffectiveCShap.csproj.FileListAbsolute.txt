@@ -1,0 +1,6 @@
+/Users/luorui/Projects/EffectiveCShap/EffectiveCShap/bin/Debug/EffectiveCShap.exe
+/Users/luorui/Projects/EffectiveCShap/EffectiveCShap/bin/Debug/EffectiveCShap.pdb
+/Users/luorui/Projects/EffectiveCShap/EffectiveCShap/obj/Debug/EffectiveCShap.csproj.AssemblyReference.cache
+/Users/luorui/Projects/EffectiveCShap/EffectiveCShap/obj/Debug/EffectiveCShap.csproj.CoreCompileInputs.cache
+/Users/luorui/Projects/EffectiveCShap/EffectiveCShap/obj/Debug/EffectiveCShap.exe
+/Users/luorui/Projects/EffectiveCShap/EffectiveCShap/obj/Debug/EffectiveCShap.pdb

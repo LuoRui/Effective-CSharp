@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F089D8DB-75F2-436D-87AE-3CF03C1A4C75}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EffectiveCShap/EnumerableExample.cs">
+    <Files>
+      <File FileName="EffectiveCShap/Program.cs" Line="28" Column="39" />
+      <File FileName="EffectiveCShap/TaskExample.cs" Line="151" Column="28" />
+      <File FileName="EffectiveCShap/EnumerableExample.cs" Line="27" Column="14" />
+      <File FileName="EffectiveCShap/AttributeExample.cs" />
+      <File FileName="EffectiveCShap/ReflectionExample.cs" Line="103" Column="6" />
+      <File FileName="EffectiveCShap/IndexerExample.cs" Line="76" Column="46" />
+      <File FileName="EffectiveCShap/DelegateExample.cs" Line="32" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EffectiveCShap" expanded="True">
+            <Node name="EffectiveCShap" expanded="True">
+              <Node name="EnumerableExample.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.EffectiveCShap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
